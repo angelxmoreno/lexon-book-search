@@ -1,0 +1,38 @@
+{
+  "name": "lexon-book-search",
+  "version": "0.0.1",
+  "description": "A search app for finding Books on Amazon that are Lexiled",
+  "keywords": [
+    "Amazon",
+    "Books",
+    "Lexile"
+  ],
+  "homepage": "https://lexon-book-search.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "bower install"
+  },
+  "author": {
+    "name": "Angel S. Moreno",
+    "email": "angelxmoreno@gmail.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:angelxmoreno/lexon-book-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angelxmoreno/lexon-book-search/issues"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "amazon-product-api": "^0.2.2",
+    "bower": "^1.4.1",
+    "config": "^1.13.0",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.3",
+    "mysql": "^2.6.2"
+  }
+}
