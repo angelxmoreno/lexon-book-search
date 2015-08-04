@@ -1,6 +1,7 @@
 {
-  "name": "lexon-books",
-  "version": "0.0.0",
+  "name": "lexon-book-search",
+  "version": "0.0.1",
+  "description": "A search app for finding Books on Amazon that are Lexiled",
   "authors": [
     "Angel S. Moreno <angelxmoreno@gmail.com>"
   ],

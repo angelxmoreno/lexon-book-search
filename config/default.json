@@ -1,0 +1,14 @@
+{
+	"amazon": {
+		"awsId": "aws ID",
+		"awsSecret": "aws Secret",
+		"awsTag": "aws Tag"
+	},
+	"mysql": {
+		"host"     : "localhost",
+		"database" : "db_name",
+		"user"     : "db_user",
+		"password" : "db_password"
+	},
+	"port": 8000
+}
